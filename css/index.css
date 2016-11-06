@@ -3,11 +3,9 @@ body {
   background-color:#000000;
   color:#ffffff;
 }
-section.joke {
-  margin-top: 80;
+p.joke {
+  margin-top: 4em;
   text-align:center;
-}
-section.joke>p {
   font-family:"Times New Roman";
   font-size:18px;
 }
